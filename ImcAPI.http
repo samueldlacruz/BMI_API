@@ -1,0 +1,6 @@
+@ImcAPI_HostAddress = http://localhost:5290
+
+GET {{ImcAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
